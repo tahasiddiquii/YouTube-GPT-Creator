@@ -66,6 +66,3 @@ Title: "Unraveling the Influence of Technology on Society"
 Script:
 "Hello, everyone! Today, we'll be diving deep into the impact of technology on modern society. From the way we communicate to the way we work, technology has revolutionized every aspect of our lives..."
 ```
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
